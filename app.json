@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "RapTalk",
+    "slug": "RapTalk",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.creativemind.raptalk",
+      "config": {
+        "googleSignIn": {
+          "reservedClientId": "com.googleusercontent.apps.935445135647-hl8nrmp2pj049hs35lhgemrqptp4fbm0"
+        }
+      }
+    },
+    "android": {
+      "package": "com.creativemind.raptalk",
+      "googleServicesFile": "./google-services.json"
+    },
+    "androidStatusBar": {
+      "barStyle": "dark-content"
+    }
+  }
+}

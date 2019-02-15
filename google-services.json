@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "935445135647",
+    "firebase_url": "https://raptalk-b5aba.firebaseio.com",
+    "project_id": "raptalk-b5aba",
+    "storage_bucket": "raptalk-b5aba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935445135647:android:64b0ea95e68662f5",
+        "android_client_info": {
+          "package_name": "com.creativemind.raptalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935445135647-27jqfrm6pi3bdcecr9aetill6k8pu4ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoIZcvcB9EukXCr-_hAIeD7g4nvci1Yno"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
